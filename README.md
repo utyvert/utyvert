@@ -1,5 +1,5 @@
 # 💫 About Me:
-👨‍💻 I’m currently working for Symphony (symphonyos.co). I am also working on Arches (an SaaS for franchises) and Spark (an AI-enabled dating app).<br>🚀 My last project was SeeQR, an Open Source SQL Database Analytics and Schema Editing Developer Tool (https://github.com/open-source-labs/SeeQR/)<br>🎒 Founded ReplayLA<br> ✉️ You can contact me at utkarshuppal@gmail.com
+👨‍💻 I’m currently a senior software engineer for TreviPay. I am also working on Arches (an SaaS for franchises).<br>🚀 My last project was SeeQR, an Open Source SQL Database Analytics and Schema Editing Developer Tool (https://github.com/open-source-labs/SeeQR/)<br>🎒 Founded ReplayLA<br> ✉️ You can contact me at utkarshuppal@gmail.com
 
 
 ## 🌐 Socials:
